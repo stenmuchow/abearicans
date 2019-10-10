@@ -29,6 +29,12 @@ const sites = [
         description: 'Blog from Vox Day',
         image: require('../../assets/vox.png'),
     },
+    {
+        name: "Owen's Instagram",
+        url: 'https://www.instagram.com/owenbenjam/',
+        description: "Owen's instagram feed",
+        image: require('../../assets/instagram.png'),
+    },
 ];
 
 export default sites;
